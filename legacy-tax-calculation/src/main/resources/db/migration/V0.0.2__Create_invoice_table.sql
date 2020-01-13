@@ -1,0 +1,4 @@
+CREATE TABLE invoice(
+	id SERIAL PRIMARY KEY,
+	value NUMERIC(13,2)
+);
